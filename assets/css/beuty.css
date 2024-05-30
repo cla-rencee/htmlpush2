@@ -1,0 +1,22 @@
+h2{
+    font-family: "Times New Roman";
+    letter-spacing: 0.5px;
+    left: 0px;
+    margin: 10px;
+    padding: 3px;
+}
+p{
+    font-family: "Dubai Medium";
+    color: darkblue;
+    text-align: justify;
+    margin: 10px;
+    padding: 3px;
+
+}
+label{
+    margin: 10px;
+    color: red;
+    font-family: "Britannic Bold";
+    padding: 3px;
+    text-align: justify;
+}

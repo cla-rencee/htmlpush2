@@ -1,0 +1,17 @@
+h2{
+    font-family: "Times New Roman";
+    letter-spacing: 0.5px;
+    color: crimson;
+    padding: 3px;
+    margin: 10px;
+    text-align: justify;
+}
+p{
+    font-family: "Lucida Handwriting";
+    color: darkcyan;
+    padding: 3px;
+    margin: 10px;
+    text-align: justify;
+    word-spacing: 5px;
+
+}
